@@ -21,7 +21,7 @@ To run the front end locally, you need to have Node.js and npm installed on your
 - Open your browser and go to `http://localhost:3000`
 
 ## Front End application used Languages
-[![My Skills](https://skillicons.dev/icons?i=github,react,js,css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,react,js,css)](https://skillicons.dev)
 
 
 
